@@ -1,3 +1,7 @@
+#input: cau tra loi cua nguoi dung
+#output : 1 mang chua 5 dap an cua nguoi dung
+# yeu cau : kiem tra input co phai la 1 dia danh hay khong, chi nhan input la 1 dia danh
+
 import turtle
 result = []
 index = 0
